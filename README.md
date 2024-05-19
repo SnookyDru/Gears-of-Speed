@@ -14,6 +14,10 @@ All models of cars are lowpoly muscle cars made in blender and imported in unity
 ## Controls
 ![Screenshot (63)](https://github.com/SnookyDru/Gears-of-Speed/assets/141584754/81f42472-38e4-4b2c-8e2a-2b5ce1c6f690)
 
+## Note 
+Extract the Gears_of_Speed_dev.rar file to get the code and the unity project of the game <br>
+To play the game download it from the given link below or as well clone the repo and open the gears of speed.exe file in the gears of speed game folder <br>
+
 ## Download
 https://snookydru.itch.io/gears-of-speed <br>
 
